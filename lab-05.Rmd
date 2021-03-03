@@ -3,17 +3,17 @@ title: "Lab 05 - Nobel laureates"
 output: github_document
   
 ---
-Team Name:
+Team Name:DS6
 
 Team Members - Name and Student ID
 
-1.
+1. Alkadi Mutlaq Alshammeri
 
-2.
 
-3.
 
-4.
+
+
+
 
 
 
@@ -47,6 +47,8 @@ nobel <- read_csv("data/nobel.csv")
 dim(nobel)
 ```
 
+935 obs
+26 var
 Each row represents information about a nobel prize winner.
 
 2.  Create a new data frame called `nobel_living` that filters for
